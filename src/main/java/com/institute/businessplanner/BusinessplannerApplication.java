@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BusinessplannerApplication {
 
 	public static void main(String[] args) {
+
+	    System.println("Welcome to IntelliJ");
 		SpringApplication.run(BusinessplannerApplication.class, args);
 	}
 
